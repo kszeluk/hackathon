@@ -1,0 +1,24 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "Playing around with D3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kszeluk/hackathon.git"
+  },
+  "keywords": [
+    "D3",
+    "JavaScript",
+    "Data"
+  ],
+  "author": "Karol Zeluk, Janusz Woźniak, Kristof Hermans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kszeluk/hackathon/issues"
+  },
+  "homepage": "https://github.com/kszeluk/hackathon#readme"
+}
